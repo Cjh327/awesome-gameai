@@ -2,11 +2,12 @@
 A curated list of awesome Game AI resources.
 
 ## Contents
-[Libraries](#libraries)
-[Books](#books)
-[Lectures](#lectures)
 
-## Libararies
+- [Libraries](#libraries)
+- [Books](#books)
+- [Lectures](#lectures)
+
+## Libraries
 
 - [awesome-game-ai](https://github.com/datamllab/awesome-game-ai) - An existing awesome library.
 
