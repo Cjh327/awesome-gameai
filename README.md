@@ -4,12 +4,16 @@ A curated list of my interested resources.
 ## Contents
 
 - [Game AI](#gameai)
+- [Human-Centered AI](#hcai)
 - [Reinforcement Learning](#reinforcementlearning)
 
 ## Game AI <a name="gameai"></a>
-- [awesome-game-ai](https://github.com/datamllab/awesome-game-ai) - An existing awesome library.
+- [awesome-game-ai](https://github.com/datamllab/awesome-game-ai) - An awesome library.
 - [Game AI Pro](http://www.gameaipro.com/) - Game AI Pro book series.
 - [GDC Vault](https://www.gdcvault.com/) - A trove of in-depth design, technical and inspirational talks and slides from the influencers of the game development industry, taken from over 20 years of the worldwide Game Developers Conferences.
+
+## Human-Centered AI <a name="hcai"></a>
+- [Awesome Human-Centered AI (HCAI)](https://github.com/Open-Source-ML/awesome-human-centered-ai) - An awesome library.
 
 ## Reinforcement Learning <a name="reinforcementlearning"></a>
 
