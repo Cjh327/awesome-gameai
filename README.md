@@ -23,6 +23,7 @@ A curated list of my interested resources.
 - [Online Decision Transformer](https://arxiv.org/abs/2202.05607#facebook), 2022
 - [Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks](https://arxiv.org/abs/2112.02845), 2021
 - [Multi-Game Decision Transformers](https://arxiv.org/abs/2205.15241), 2022
+- [You Can’t Count on Luck: Why Decision Transformers Fail in Stochastic Environments](https://arxiv.org/pdf/2205.15967.pdf), 2022
 
 ### DeepMind Research
 - [A Generalist Agent](https://arxiv.org/abs/2205.06175) (Gato), 2022
