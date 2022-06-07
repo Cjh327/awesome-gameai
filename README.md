@@ -5,8 +5,9 @@ A curated list of my interested resources.
 
 - [Game AI](#gameai)
 - [Human-Centered AI](#hcai)
-- [Reinforcement Learning](#reinforcementlearning)
-- [DeepMind Researc](#deepmind)
+- [Reinforcement Learning](#reinforcementlearning) 
+  - [Decision Transformer](#decisiontransformer)
+  - [Generalist Agent](#generalistagent)
 
 ## Game AI <a name="gameai"></a>
 - [awesome-game-ai](https://github.com/datamllab/awesome-game-ai) - An awesome library.
@@ -26,8 +27,10 @@ A curated list of my interested resources.
 - [Multi-Game Decision Transformers](https://arxiv.org/abs/2205.15241), 2022.
 - [You Can’t Count on Luck: Why Decision Transformers Fail in Stochastic Environments](https://arxiv.org/pdf/2205.15967.pdf), 2022.
 
-### DeepMind Research <a name="deepmind"></a>
-- ✅ [A Generalist Agent](https://arxiv.org/abs/2205.06175) (Gato), 2022 
+### Generalist Agent <a name="generalistagent"></a>
+- ✅ [A Generalist Agent](https://arxiv.org/abs/2205.06175) (Gato), 2022.  
+-> Use prompt conditioning for multi-task. 
+  - [GPT，GPT-2，GPT-3 论文精读](https://www.bilibili.com/video/BV1AF411b7xQ/)
 
 ### Real-World RL <a name="realworldrl"></a>
 - [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf), 2019.
@@ -35,8 +38,6 @@ A curated list of my interested resources.
 
 ### Autonomous Driving <a name="autonomousdriving"></a>
 - [Deep Reinforcement Learning for Autonomous Driving: A Survey](https://arxiv.org/pdf/2002.00444.pdf), 2020.  
--> Use prompt conditioning for multi-task. 
-  - [GPT，GPT-2，GPT-3 论文精读](https://www.bilibili.com/video/BV1AF411b7xQ/)
 
 ### Environments
 - [DIAMBRA Arena](https://github.com/diambra/arena#diambra-arena): An interface towards popular arcade emulated video games.
