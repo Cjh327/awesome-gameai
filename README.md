@@ -36,3 +36,7 @@ A curated list of my interested resources.
 
 ### Autonomous Driving <a name="autonomousdriving"></a>
 - [Deep Reinforcement Learning for Autonomous Driving: A Survey](https://arxiv.org/pdf/2002.00444.pdf), 2020
+
+### Environments
+- [DIAMBRA Arena](https://github.com/diambra/arena#diambra-arena) An interface towards popular arcade emulated video games.
+- [Bomberland](https://www.gocoder.one/bomberland) A multi-agent AI competition inspired by Bomberman.
