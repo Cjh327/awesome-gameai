@@ -7,7 +7,7 @@ A curated list of my interested resources.
 - [Human-Centered AI](#hcai)
 - [Reinforcement Learning](#reinforcementlearning)
 - [DeepMind Researc](#deepmind)
-- [Autonomous Driving](#autonomousdriving)
+- [Novel topics](#noveltopics)
 
 ## Game AI <a name="gameai"></a>
 - [awesome-game-ai](https://github.com/datamllab/awesome-game-ai) - An awesome library.
@@ -29,6 +29,10 @@ A curated list of my interested resources.
 
 ### DeepMind Research <a name="deepmind"></a>
 - [A Generalist Agent](https://arxiv.org/abs/2205.06175) (Gato), 2022
+
+### Real-World RL <a name="realworldrl"></a>
+- [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf), 2019
+- [Reinforcement Learning In Practice: Oppotunities And Challenges](https://arxiv.org/pdf/2202.11296.pdf), 2022
 
 ### Autonomous Driving <a name="autonomousdriving"></a>
 - [Deep Reinforcement Learning for Autonomous Driving: A Survey](https://arxiv.org/pdf/2002.00444.pdf), 2020
