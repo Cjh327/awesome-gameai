@@ -6,6 +6,8 @@ A curated list of my interested resources.
 - [Game AI](#gameai)
 - [Human-Centered AI](#hcai)
 - [Reinforcement Learning](#reinforcementlearning)
+- [DeepMind Researc](#deepmind)
+- [Autonomous Driving](#autonomousdriving)
 
 ## Game AI <a name="gameai"></a>
 - [awesome-game-ai](https://github.com/datamllab/awesome-game-ai) - An awesome library.
@@ -17,7 +19,7 @@ A curated list of my interested resources.
 
 ## Reinforcement Learning <a name="reinforcementlearning"></a>
 
-### Decision Transformer
+### Decision Transformer <a name="decisiontransformer"></a>
 - [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345), 2021
 - [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953), 2022
 - [Online Decision Transformer](https://arxiv.org/abs/2202.05607#facebook), 2022
@@ -25,5 +27,8 @@ A curated list of my interested resources.
 - [Multi-Game Decision Transformers](https://arxiv.org/abs/2205.15241), 2022
 - [You Can’t Count on Luck: Why Decision Transformers Fail in Stochastic Environments](https://arxiv.org/pdf/2205.15967.pdf), 2022
 
-### DeepMind Research
+### DeepMind Research <a name="deepmind"></a>
 - [A Generalist Agent](https://arxiv.org/abs/2205.06175) (Gato), 2022
+
+### Autonomous Driving <a name="autonomousdriving"></a>
+- [Deep Reinforcement Learning for Autonomous Driving: A Survey](https://arxiv.org/pdf/2002.00444.pdf), 2020
