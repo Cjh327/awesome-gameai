@@ -7,7 +7,6 @@ A curated list of my interested resources.
 - [Human-Centered AI](#hcai)
 - [Reinforcement Learning](#reinforcementlearning)
 - [DeepMind Researc](#deepmind)
-- [Novel topics](#noveltopics)
 
 ## Game AI <a name="gameai"></a>
 - [awesome-game-ai](https://github.com/datamllab/awesome-game-ai) - An awesome library.
@@ -28,7 +27,7 @@ A curated list of my interested resources.
 - [You Can’t Count on Luck: Why Decision Transformers Fail in Stochastic Environments](https://arxiv.org/pdf/2205.15967.pdf), 2022
 
 ### DeepMind Research <a name="deepmind"></a>
-- [A Generalist Agent](https://arxiv.org/abs/2205.06175) (Gato), 2022
+- ✅ [A Generalist Agent](https://arxiv.org/abs/2205.06175) (Gato), 2022 
 
 ### Real-World RL <a name="realworldrl"></a>
 - [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf), 2019
