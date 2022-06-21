@@ -44,3 +44,4 @@ A curated list of my interested resources.
 ### Environments
 - [DIAMBRA Arena](https://github.com/diambra/arena#diambra-arena): An interface towards popular arcade emulated video games.
 - [Bomberland](https://www.gocoder.one/bomberland): A multi-agent AI competition inspired by Bomberman.
+- [Honor of Kings Game Environment](https://github.com/tencent-ailab/hok_env): The open environment of Honor of kings 1V1.
