@@ -11,7 +11,7 @@ A curated list of my interested resources.
 
 ## Game AI <a name="gameai"></a>
 ### Industrial works
-- []
+- [DeepMind AlphaStar](https://www.nature.com/articles/s41586-019-1724-z), 2019
 - [OpenAI Five](https://arxiv.org/pdf/1912.06680v1.pdf), 2019
 - [Tencent Juewu](https://arxiv.org/abs/2011.12692), 2020
 
