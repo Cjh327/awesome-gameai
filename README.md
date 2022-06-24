@@ -10,6 +10,11 @@ A curated list of my interested resources.
   - [Generalist Agent](#generalistagent)
 
 ## Game AI <a name="gameai"></a>
+### Industrial works
+- [OpenAI Five](https://arxiv.org/pdf/1912.06680v1.pdf), 2019
+- [Tencent Juewu](https://arxiv.org/abs/2011.12692), 2020
+
+### Others
 - [awesome-game-ai](https://github.com/datamllab/awesome-game-ai) - An awesome library.
 - [Game AI Pro](http://www.gameaipro.com/) - Game AI Pro book series.
 - [GDC Vault](https://www.gdcvault.com/) - A trove of in-depth design, technical and inspirational talks and slides from the influencers of the game development industry, taken from over 20 years of the worldwide Game Developers Conferences.
@@ -45,3 +50,7 @@ A curated list of my interested resources.
 - [DIAMBRA Arena](https://github.com/diambra/arena#diambra-arena): An interface towards popular arcade emulated video games.
 - [Bomberland](https://www.gocoder.one/bomberland): A multi-agent AI competition inspired by Bomberman.
 - [Honor of Kings Game Environment](https://github.com/tencent-ailab/hok_env): The open environment of Honor of kings 1V1.
+
+### Empirical study
+- [What Matters In On-Policy Reinforcement Learning? A Large-Scale Empirical Study](https://arxiv.org/pdf/2006.05990.pdf), 2020
+- [Distilling Policy Distillation](https://arxiv.org/pdf/1902.02186.pdf), 2019
