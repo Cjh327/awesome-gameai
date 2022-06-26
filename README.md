@@ -36,6 +36,8 @@ A curated list of my interested resources.
 - [Online Decision Transformer](https://arxiv.org/abs/2202.05607#facebook), 2022.
 -  ✅ [Multi-Game Decision Transformers](https://arxiv.org/abs/2205.15241), 2022.
 - [You Can’t Count on Luck: Why Decision Transformers Fail in Stochastic Environments](https://arxiv.org/pdf/2205.15967.pdf), 2022.
+- [Action-Conditioned Contrastive Policy Pretraining](https://arxiv.org/abs/2204.02393), 2022
+- [MetaMorph: Learning Universal Controllers with Transformers](https://arxiv.org/abs/2203.11931), 2022
 - Multi-agent
   - [Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks](https://arxiv.org/abs/2112.02845), 2021.
   - [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953), 2022.
