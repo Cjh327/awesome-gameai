@@ -29,16 +29,17 @@ A curated list of my interested resources.
 
 ### Decision Transformer <a name="decisiontransformer"></a>
 -  ✅ [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345), 2021.
-- [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953), 2022.
-- [Online Decision Transformer](https://arxiv.org/abs/2202.05607#facebook), 2022.
-- [Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks](https://arxiv.org/abs/2112.02845), 2021.
--  ✅ [Multi-Game Decision Transformers](https://arxiv.org/abs/2205.15241), 2022.
-- [You Can’t Count on Luck: Why Decision Transformers Fail in Stochastic Environments](https://arxiv.org/pdf/2205.15967.pdf), 2022.
-
-### Generalist Agent <a name="generalistagent"></a>
+-  [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039), 2021
 - ✅ [A Generalist Agent](https://arxiv.org/abs/2205.06175) (Gato), 2022.  
 -> Use prompt conditioning for multi-task. 
   -  ✅ [GPT，GPT-2，GPT-3 论文精读](https://www.bilibili.com/video/BV1AF411b7xQ/)
+- [Online Decision Transformer](https://arxiv.org/abs/2202.05607#facebook), 2022.
+-  ✅ [Multi-Game Decision Transformers](https://arxiv.org/abs/2205.15241), 2022.
+- [You Can’t Count on Luck: Why Decision Transformers Fail in Stochastic Environments](https://arxiv.org/pdf/2205.15967.pdf), 2022.
+- Multi-agent
+  - [Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks](https://arxiv.org/abs/2112.02845), 2021.
+  - [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953), 2022.
+
 
 ### Real-World RL <a name="realworldrl"></a>
 - [Challenges of Real-World Reinforcement Learning](https://arxiv.org/pdf/1904.12901.pdf), 2019.
