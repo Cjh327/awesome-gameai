@@ -29,7 +29,7 @@ A curated list of my interested resources.
 
 ### Decision Transformer <a name="decisiontransformer"></a>
 -  ✅ [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345), 2021.
--  [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039), 2021
+-  ✅ [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039), 2021
 - ✅ [A Generalist Agent](https://arxiv.org/abs/2205.06175) (Gato), 2022.  
 -> Use prompt conditioning for multi-task. 
   -  ✅ [GPT，GPT-2，GPT-3 论文精读](https://www.bilibili.com/video/BV1AF411b7xQ/)
