@@ -33,7 +33,7 @@ A curated list of my interested resources.
 - ✅ [A Generalist Agent](https://arxiv.org/abs/2205.06175) (Gato), 2022.  
 -> Use prompt conditioning for multi-task. 
   -  ✅ [GPT，GPT-2，GPT-3 论文精读](https://www.bilibili.com/video/BV1AF411b7xQ/)
-- [Online Decision Transformer](https://arxiv.org/abs/2202.05607#facebook), 2022.
+- ✅ [Online Decision Transformer](https://arxiv.org/abs/2202.05607#facebook), 2022.
 -  ✅ [Multi-Game Decision Transformers](https://arxiv.org/abs/2205.15241), 2022.
 - [You Can’t Count on Luck: Why Decision Transformers Fail in Stochastic Environments](https://arxiv.org/pdf/2205.15967.pdf), 2022.
 - [Action-Conditioned Contrastive Policy Pretraining](https://arxiv.org/abs/2204.02393), 2022
