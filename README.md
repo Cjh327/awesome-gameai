@@ -8,6 +8,7 @@ A curated list of my interested resources.
 - [Reinforcement Learning](#reinforcementlearning) 
   - [Decision Transformer](#decisiontransformer)
   - [Generalist Agent](#generalistagent)
+  - [Big Models for RL] <a name="bigmodelsrl"></a>
 
 ## Game AI <a name="gameai"></a>
 ### Industrial works
@@ -41,6 +42,10 @@ A curated list of my interested resources.
 - Multi-agent
   - [Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks](https://arxiv.org/abs/2112.02845), 2021.
   - [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953), 2022.
+ 
+### Big Models for RL <a name="bigmodelsrl"></a>
+ - [Learning to Play Minecraft with Video PreTraining (VPT)](https://openai.com/blog/vpt/), 2022
+
 
 
 ### Real-World RL <a name="realworldrl"></a>
