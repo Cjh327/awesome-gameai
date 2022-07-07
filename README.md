@@ -7,8 +7,7 @@ A curated list of my interested resources.
 - [Human-Centered AI](#hcai)
 - [Reinforcement Learning](#reinforcementlearning) 
   - [Decision Transformer](#decisiontransformer)
-  - [Generalist Agent](#generalistagent)
-  - [Big Models for RL] (#bigmodelsrl)
+  - [Big Models for RL](#bigmodelsrl)
 
 ## Game AI <a name="gameai"></a>
 ### Industrial works
