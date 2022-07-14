@@ -37,6 +37,7 @@ class MultiHeadSelfAttentionNaive(nn.Module):
 
 
 # Official version
+# https://github.com/jadore801120/attention-is-all-you-need-pytorch/blob/fec78a687210851f055f792d45300d27cc60ae41/transformer/SubLayers.py#L9
 class MultiHeadAttentionOfficial(nn.Module):
     def __init__(self, n_head, d_model, d_k, d_v, dropout):
         '''
