@@ -43,8 +43,11 @@ A curated list of my interested resources.
   - [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953), 2022.
  
 ### Big Models for RL <a name="bigmodelsrl"></a>
- - ✅ [Learning to Play Minecraft with Video PreTraining (VPT)](https://openai.com/blog/vpt/), 2022
-  - 用到的Transformer模型：[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860), 2022
+ - ✅ OpenAI VPT [Learning to Play Minecraft with Video PreTraining (VPT)](https://openai.com/blog/vpt/), 2022
+    - 用到的Transformer模型：[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860), 2022
+ - NVIDIA MineDojo [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://arxiv.org/abs/2206.08853), 2022
+ - [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/abs/2207.04429), 2022
+ - [A Dataset Perspective on Offline Reinforcement Learning](https://arxiv.org/abs/2111.04714), 2022
 
 
 
