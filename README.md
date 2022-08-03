@@ -14,6 +14,7 @@ A curated list of my interested resources.
 - [DeepMind AlphaStar](https://www.nature.com/articles/s41586-019-1724-z), 2019
 - [OpenAI Five](https://arxiv.org/pdf/1912.06680v1.pdf), 2019
 - [Tencent Juewu](https://arxiv.org/abs/2011.12692), 2020
+- [Learning Diverse Policies in MOBA Games via Macro-Goals](https://arxiv.org/pdf/2110.14221.pdf), 2021
 
 ### Others
 - [awesome-game-ai](https://github.com/datamllab/awesome-game-ai) - An awesome library.
@@ -43,8 +44,11 @@ A curated list of my interested resources.
   - [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953), 2022.
  
 ### Big Models for RL <a name="bigmodelsrl"></a>
- - ✅ [Learning to Play Minecraft with Video PreTraining (VPT)](https://openai.com/blog/vpt/), 2022
-  - 用到的Transformer模型：[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860), 2022
+ - ✅ OpenAI VPT [Learning to Play Minecraft with Video PreTraining (VPT)](https://openai.com/blog/vpt/), 2022
+    - 用到的Transformer模型：[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860), 2022
+ - NVIDIA MineDojo [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://arxiv.org/abs/2206.08853), 2022
+ - [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/abs/2207.04429), 2022
+ - [A Dataset Perspective on Offline Reinforcement Learning](https://arxiv.org/abs/2111.04714), 2022
 
 
 
