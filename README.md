@@ -28,20 +28,27 @@ A curated list of my interested resources.
 
 ## Reinforcement Learning <a name="reinforcementlearning"></a>
 
+### Learning Transferable Policies and Representations with Transformer
+- [AnyMorph: Learning Transferable Polices By Inferring Agent Morphology](https://arxiv.org/abs/2206.12279), ICML 2022 (Spotlight).
+- [MetaMorph: Learning Universal Controllers with Transformers](https://arxiv.org/abs/2203.11931), 2022
+- [Can Wikipedia Help Offline Reinforcement Learning?](https://arxiv.org/abs/2201.12122), 2022.
+
 ### Decision Transformer <a name="decisiontransformer"></a>
 -  ✅ [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345), 2021.
--  ✅ [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039), 2021
+-  ✅ [Offline Reinforcement Learning as One Big Sequence Modeling Problem](https://arxiv.org/abs/2106.02039), 2021.
 - ✅ [A Generalist Agent](https://arxiv.org/abs/2205.06175) (Gato), 2022.  
 -> Use prompt conditioning for multi-task. 
   -  ✅ [GPT，GPT-2，GPT-3 论文精读](https://www.bilibili.com/video/BV1AF411b7xQ/)
-- ✅ [Online Decision Transformer](https://arxiv.org/abs/2202.05607#facebook), 2022.
+- [Online Decision Transformer](https://arxiv.org/abs/2202.05607#facebook), ICML 2022 (Oral).
 -  ✅ [Multi-Game Decision Transformers](https://arxiv.org/abs/2205.15241), 2022.
 - [You Can’t Count on Luck: Why Decision Transformers Fail in Stochastic Environments](https://arxiv.org/pdf/2205.15967.pdf), 2022.
 - [Action-Conditioned Contrastive Policy Pretraining](https://arxiv.org/abs/2204.02393), 2022
-- [MetaMorph: Learning Universal Controllers with Transformers](https://arxiv.org/abs/2203.11931), 2022
 - Multi-agent
   - [Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks](https://arxiv.org/abs/2112.02845), 2021.
   - [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953), 2022.
+- [Generalized Decision Transformer for Offline Hindsight Information Matching](https://arxiv.org/abs/2111.10364), ICLR 2021 (Spotlight).
+- [Prompting Decision Transformer for Few-Shot Policy Generalization](https://arxiv.org/abs/2206.13499), ICML 2022 (Poster).
+- [Addressing Optimism Bias in Sequence Modeling for Reinforcement Learning](https://proceedings.mlr.press/v162/villaflor22a.html), ICML 2022 (Poster).
  
 ### Big Models for RL <a name="bigmodelsrl"></a>
  - ✅ OpenAI VPT [Learning to Play Minecraft with Video PreTraining (VPT)](https://openai.com/blog/vpt/), 2022
