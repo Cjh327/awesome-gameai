@@ -11,10 +11,10 @@ A curated list of my interested resources.
 
 ## Game AI <a name="gameai"></a>
 ### Industrial works
-- [DeepMind AlphaStar](https://www.nature.com/articles/s41586-019-1724-z), 2019
-- [OpenAI Five](https://arxiv.org/pdf/1912.06680v1.pdf), 2019
-- [Tencent Juewu](https://arxiv.org/abs/2011.12692), 2020
-- [Learning Diverse Policies in MOBA Games via Macro-Goals](https://arxiv.org/pdf/2110.14221.pdf), 2021
+- [DeepMind AlphaStar](https://www.nature.com/articles/s41586-019-1724-z), 2019.
+- [OpenAI Five](https://arxiv.org/pdf/1912.06680v1.pdf), 2019.
+- [Tencent Juewu](https://arxiv.org/abs/2011.12692), 2020.
+- [Learning Diverse Policies in MOBA Games via Macro-Goals](https://arxiv.org/pdf/2110.14221.pdf), 2021.
 
 ### Others
 - [awesome-game-ai](https://github.com/datamllab/awesome-game-ai) - An awesome library.
@@ -30,7 +30,7 @@ A curated list of my interested resources.
 
 ### Learning Transferable Policies and Representations with Transformer
 - [AnyMorph: Learning Transferable Polices By Inferring Agent Morphology](https://arxiv.org/abs/2206.12279), ICML 2022 (Spotlight).
-- [MetaMorph: Learning Universal Controllers with Transformers](https://arxiv.org/abs/2203.11931), 2022
+- [MetaMorph: Learning Universal Controllers with Transformers](https://arxiv.org/abs/2203.11931), 2022.
 - [Can Wikipedia Help Offline Reinforcement Learning?](https://arxiv.org/abs/2201.12122), 2022.
 
 ### Decision Transformer <a name="decisiontransformer"></a>
@@ -42,7 +42,7 @@ A curated list of my interested resources.
 - [Online Decision Transformer](https://arxiv.org/abs/2202.05607#facebook), ICML 2022 (Oral).
 -  ✅ [Multi-Game Decision Transformers](https://arxiv.org/abs/2205.15241), 2022.
 - [You Can’t Count on Luck: Why Decision Transformers Fail in Stochastic Environments](https://arxiv.org/pdf/2205.15967.pdf), 2022.
-- [Action-Conditioned Contrastive Policy Pretraining](https://arxiv.org/abs/2204.02393), 2022
+- [Action-Conditioned Contrastive Policy Pretraining](https://arxiv.org/abs/2204.02393), 2022.
 - Multi-agent
   - [Offline Pre-trained Multi-Agent Decision Transformer: One Big Sequence Model Tackles All SMAC Tasks](https://arxiv.org/abs/2112.02845), 2021.
   - [Multi-Agent Reinforcement Learning is a Sequence Modeling Problem](https://arxiv.org/abs/2205.14953), 2022.
@@ -51,11 +51,11 @@ A curated list of my interested resources.
 - [Addressing Optimism Bias in Sequence Modeling for Reinforcement Learning](https://proceedings.mlr.press/v162/villaflor22a.html), ICML 2022 (Poster).
  
 ### Big Models for RL <a name="bigmodelsrl"></a>
- - ✅ OpenAI VPT [Learning to Play Minecraft with Video PreTraining (VPT)](https://openai.com/blog/vpt/), 2022
-    - 用到的Transformer模型：[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860), 2022
- - NVIDIA MineDojo [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://arxiv.org/abs/2206.08853), 2022
- - [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/abs/2207.04429), 2022
- - [A Dataset Perspective on Offline Reinforcement Learning](https://arxiv.org/abs/2111.04714), 2022
+ - ✅ OpenAI VPT [Learning to Play Minecraft with Video PreTraining (VPT)](https://openai.com/blog/vpt/), 2022.
+    - 用到的Transformer模型：[Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860), 2022.
+ - NVIDIA MineDojo [MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge](https://arxiv.org/abs/2206.08853), 2022.
+ - [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/abs/2207.04429), 2022.
+ - [A Dataset Perspective on Offline Reinforcement Learning](https://arxiv.org/abs/2111.04714), 2022.
 
 
 
@@ -72,5 +72,5 @@ A curated list of my interested resources.
 - [Honor of Kings Game Environment](https://github.com/tencent-ailab/hok_env): The open environment of Honor of kings 1V1.
 
 ### Empirical study
-- [What Matters In On-Policy Reinforcement Learning? A Large-Scale Empirical Study](https://arxiv.org/pdf/2006.05990.pdf), 2020
-- [Distilling Policy Distillation](https://arxiv.org/pdf/1902.02186.pdf), 2019
+- [What Matters In On-Policy Reinforcement Learning? A Large-Scale Empirical Study](https://arxiv.org/pdf/2006.05990.pdf), 2020.
+- [Distilling Policy Distillation](https://arxiv.org/pdf/1902.02186.pdf), 2019.
