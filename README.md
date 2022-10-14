@@ -30,6 +30,7 @@ A curated list of my interested resources.
 
 ### Learning Transferable Policies and Representations with Transformer
 - [AnyMorph: Learning Transferable Polices By Inferring Agent Morphology](https://arxiv.org/abs/2206.12279), ICML 2022 (Spotlight).
+  - Related work: [One Policy to Control Them All: Shared Modular Policies for Agent-Agnostic Control](https://arxiv.org/abs/2007.04976), ICML 2020.
 - [MetaMorph: Learning Universal Controllers with Transformers](https://arxiv.org/abs/2203.11931), 2022.
 - [Can Wikipedia Help Offline Reinforcement Learning?](https://arxiv.org/abs/2201.12122), 2022.
 
