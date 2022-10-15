@@ -50,6 +50,7 @@ A curated list of my interested resources.
 - [Generalized Decision Transformer for Offline Hindsight Information Matching](https://arxiv.org/abs/2111.10364), ICLR 2021 (Spotlight).
 - [Prompting Decision Transformer for Few-Shot Policy Generalization](https://arxiv.org/abs/2206.13499), ICML 2022 (Poster).
 - [Addressing Optimism Bias in Sequence Modeling for Reinforcement Learning](https://proceedings.mlr.press/v162/villaflor22a.html), ICML 2022 (Poster).
+- [RvS: What is Essential for Offline RL via Supervised Learning?](https://arxiv.org/abs/2112.10751), ICLR 2022.
  
 ### Big Models for RL <a name="bigmodelsrl"></a>
  - ✅ OpenAI VPT [Learning to Play Minecraft with Video PreTraining (VPT)](https://openai.com/blog/vpt/), 2022.
