@@ -51,6 +51,13 @@ A curated list of my interested resources.
 - [Prompting Decision Transformer for Few-Shot Policy Generalization](https://arxiv.org/abs/2206.13499), ICML 2022 (Poster).
 - [Addressing Optimism Bias in Sequence Modeling for Reinforcement Learning](https://proceedings.mlr.press/v162/villaflor22a.html), ICML 2022 (Poster).
 - [RvS: What is Essential for Offline RL via Supervised Learning?](https://arxiv.org/abs/2112.10751), ICLR 2022.
+
+### Offline RL with Online Finetuning
+- [Acceleratingonline reinforcement learning with offline datasets](https://arxiv.org/abs/2006.09359), CORR 2022.
+- [Offline Reinforcement Learning with Implicit Q-Learning](https://arxiv.org/abs/2110.06169), Arxiv 2021.
+- [Offline-to-Online Reinforcement Learning via Balanced Replay and Pessimistic Q-Ensemble](https://arxiv.org/abs/2107.00591), CoRL 2021.
+- [AW-Opt: Learning Robotic Skills with Imitation and Reinforcement at Scale](https://arxiv.org/abs/2111.05424), CoRL 2021.
+- [Online Decision Transformer](https://arxiv.org/abs/2202.05607#facebook), ICML 2022 (Oral).
  
 ### Big Models for RL <a name="bigmodelsrl"></a>
  - ✅ OpenAI VPT [Learning to Play Minecraft with Video PreTraining (VPT)](https://openai.com/blog/vpt/), 2022.
